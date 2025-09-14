@@ -10,6 +10,7 @@ env/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+Untitled Folder/
 
 # MacOS system files
 .DS_Store
@@ -17,4 +18,3 @@ env/
 # IDE settings
 .idea/
 .vscode/
-
